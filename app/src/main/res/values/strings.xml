@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">project4</string>
+    <string name="total_lifeboat">Must Accommodate: %s passengers</string>
+</resources>
